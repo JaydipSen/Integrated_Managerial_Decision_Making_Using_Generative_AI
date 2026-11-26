@@ -1,0 +1,2 @@
+The streamlit cloud deployment at:
+https://integratedmanagerialdecisionmakingusinggenerativeai-8z7ewmlqe5.streamlit.app/
