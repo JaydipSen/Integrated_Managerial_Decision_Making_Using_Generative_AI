@@ -169,4 +169,4 @@ Students should explicitly state assumptions, uncertainty, limitations, and impl
 
 ## License
 
-For classroom use. Add an institutional or project license if you intend to distribute the code publicly.
+This repository is made publicly available for educational, academic, and classroom use. Permission is granted to access and use the code for learning, teaching, and academic demonstration purposes. Redistribution, commercial use, modification for public distribution, or incorporation into other projects requires prior written permission from the copyright holder, unless otherwise specified. This repository is provided "as is", without warranty of any kind. The author assumes no responsibility for any loss or damage arising from its use. For other permissions or licensing inquiries, please contact the author.
